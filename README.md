@@ -5,7 +5,7 @@
  * Secrets manager
 
 ## funcionalidades
- - Este arquivo de terraform cria uma key pair e armazena o valor da chave .pem no secrets manager sendo assim possível recuperar o valor da chave.
+ - Este módulo tem a finalidade de criar uma key pair e armazenar o valor da chave .pem no secrets manager sendo possível, quem tem acesso a conta recuperar seu valor.
 
  
 ## Requirements
